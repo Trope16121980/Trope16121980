@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <documento>
   <h1>Currículum Vitae</h1>
-  <br>
-  <subtitulo>Aquí os dejo el documento en .pdf de mi CV.</subtitulo>
-  <linea>Trope161219880 / CV</linea>
+  <h2>Aquí os dejo el documento en .pdf de mi CV.</h2>
+   <br>
+  <h3>Trope161219880 / CV</h3>
+   <br>
   <enlace>https://github.com/Trope16121980/Trope16121980/files/14163890/curriculuminformatica.pdf</enlace>
 </documento>
 
